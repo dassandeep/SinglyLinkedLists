@@ -250,5 +250,3 @@ class Program
     }
 }
 
-
-//dotnet run --project MyConsoleApp\MyConsoleApp.csproj
